@@ -58,3 +58,7 @@ ___
   <img width="12" />
 
 </div>
+
+<h3 align="center">
+  <p><span style="color: #7366BD;">Gmail:</span> evgenyba0@gmail.com</p>
+</h3>

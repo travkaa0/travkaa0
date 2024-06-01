@@ -44,3 +44,21 @@ ___
 <div align="center">
   <img src=https://www.codewars.com/users/travkaa0/badges/large  />
 </div>
+
+___
+
+## 📞 Связь со мной:
+
+<div align="center">
+
+  <img width="12" />
+  <a href="https://discordapp.com/users/reii8044/">
+      <img src="https://skillicons.dev/icons?i=discord" alt="discord">
+  </a>
+  <img width="12" />
+  <a href="https://evgenyba0@gmail.com/">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="gmail">
+  </a>
+  <img width="12" />
+
+</div>

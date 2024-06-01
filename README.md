@@ -52,12 +52,8 @@ ___
 <div align="center">
 
   <img width="12" />
-  <a href="https://discordapp.com/users/reii8044/">
+  <a href="https://discordapp.com/users/796523526105464842/">
       <img src="https://skillicons.dev/icons?i=discord" alt="discord">
-  </a>
-  <img width="12" />
-  <a href="https://evgenyba0@gmail.com/">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="gmail">
   </a>
   <img width="12" />
 

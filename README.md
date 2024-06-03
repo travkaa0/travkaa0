@@ -60,6 +60,15 @@ ___
 
 ___
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1" alt="GitHub Streak"/>
+  </a>
+</div>
+
+  
+___
+
 ## 📞 Связь со мной:
 
 <div align="center">

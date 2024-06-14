@@ -15,15 +15,15 @@
   </picture>
 </p>
 
-<h1 align="center">Привет👋 Меня зовут Женя.</h1>
+<h1 align="center">Hello👋 My name is Zhenya.</h1>
 
-## 👩‍💻 Обо мне:
+## 👩‍💻 About me:
 
-**<div align="center">Я начинающий программист из Латвии. Заканчиваю первый курс профессиональной средней школы.</div>**
+**<div align="center">I am a beginner programmer from Latvia, and I am a second year student at a vocational high school.</div>**
 
 ___
 
-## 🛠 Мои наваки:
+## 🛠 My skills:
 
 ###
 
@@ -51,7 +51,7 @@ ___
 
 ___
 
-## 🔥 Codewars статистика на 01.06.24:
+## 🔥 Codewars statistics:
 <div align="center">
   <img src=https://www.codewars.com/users/travkaa0/badges/large  />
 </div>
@@ -67,7 +67,7 @@ ___
   
 ___
 
-## 📞 Связь со мной:
+## 📞 Contact me:
 
 <div align="center">
 
@@ -78,7 +78,3 @@ ___
   <img width="12" />
 
 </div>
-
-<h3 align="center">
-  <p><span style="color: #7366BD;">Gmail:</span> evgenyba0@gmail.com</p>
-</h3>

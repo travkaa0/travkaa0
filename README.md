@@ -51,7 +51,6 @@ ___
 
 ___
 
-## 🔥 Codewars statistics:
 <div align="center">
   <img src=https://www.codewars.com/users/travkaa0/badges/large  />
 </div>

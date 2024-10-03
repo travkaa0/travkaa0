@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About me:
 
-**<div align="center">I am a beginner programmer from Latvia, and I am a second year student at a vocational high school.</div>**
+**<div align="center">I am a beginner programmer from Latvia</div>**
 
 ___
 

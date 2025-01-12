@@ -15,7 +15,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hello👋 My name is Zhenya.</h1>
+<h1 align="center">Hello👋 My name is Milana.</h1>
 
 ## 👩‍💻 About me:
 
@@ -31,6 +31,10 @@ ___
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
@@ -38,8 +42,6 @@ ___
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vs code logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
@@ -52,15 +54,6 @@ ___
 <div align="center">
   <img src=https://www.codewars.com/users/travkaa0/badges/large  />
 </div>
-
-___
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1" alt="GitHub Streak"/>
-  </a>
-</div>
-
   
 ___
 

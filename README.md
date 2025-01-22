@@ -54,17 +54,3 @@ ___
 <div align="center">
   <img src=https://www.codewars.com/users/travkaa0/badges/large  />
 </div>
-  
-___
-
-## 📞 Contact me:
-
-<div align="center">
-
-  <img width="12" />
-  <a href="https://discordapp.com/users/796523526105464842/">
-      <img src="https://skillicons.dev/icons?i=discord" alt="discord">
-  </a>
-  <img width="12" />
-
-</div>

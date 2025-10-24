@@ -15,7 +15,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hello👋 My name is Milana.</h1>
+<h1 align="center">Hello👋 My name is Eugene.</h1>
 
 ## 👩‍💻 About me:
 
